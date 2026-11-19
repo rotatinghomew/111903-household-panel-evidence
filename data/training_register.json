@@ -1,0 +1,2056 @@
+{
+  "participants": [
+    {
+      "participant": "L00",
+      "group": "limited_grip",
+      "allowed_families": [
+        "grip_open",
+        "read_scale"
+      ]
+    },
+    {
+      "participant": "L01",
+      "group": "limited_grip",
+      "allowed_families": [
+        "grip_open",
+        "read_scale"
+      ]
+    },
+    {
+      "participant": "L02",
+      "group": "limited_grip",
+      "allowed_families": [
+        "grip_open",
+        "read_scale"
+      ]
+    },
+    {
+      "participant": "L03",
+      "group": "limited_grip",
+      "allowed_families": [
+        "grip_open",
+        "read_scale"
+      ]
+    },
+    {
+      "participant": "L04",
+      "group": "limited_grip",
+      "allowed_families": [
+        "grip_open",
+        "read_scale"
+      ]
+    },
+    {
+      "participant": "L05",
+      "group": "limited_grip",
+      "allowed_families": [
+        "grip_open",
+        "read_scale"
+      ]
+    },
+    {
+      "participant": "L06",
+      "group": "limited_grip",
+      "allowed_families": [
+        "grip_open",
+        "read_scale"
+      ]
+    },
+    {
+      "participant": "L07",
+      "group": "limited_grip",
+      "allowed_families": [
+        "grip_open",
+        "read_scale"
+      ]
+    },
+    {
+      "participant": "L08",
+      "group": "limited_grip",
+      "allowed_families": [
+        "grip_open",
+        "read_scale"
+      ]
+    },
+    {
+      "participant": "L09",
+      "group": "limited_grip",
+      "allowed_families": [
+        "grip_open",
+        "read_scale"
+      ]
+    },
+    {
+      "participant": "L10",
+      "group": "limited_grip",
+      "allowed_families": [
+        "grip_open",
+        "read_scale"
+      ]
+    },
+    {
+      "participant": "L11",
+      "group": "limited_grip",
+      "allowed_families": [
+        "grip_open",
+        "read_scale"
+      ]
+    },
+    {
+      "participant": "G00",
+      "group": "general",
+      "allowed_families": [
+        "grip_open",
+        "read_scale"
+      ]
+    },
+    {
+      "participant": "G01",
+      "group": "general",
+      "allowed_families": [
+        "grip_open",
+        "read_scale"
+      ]
+    },
+    {
+      "participant": "G02",
+      "group": "general",
+      "allowed_families": [
+        "grip_open",
+        "read_scale"
+      ]
+    },
+    {
+      "participant": "G03",
+      "group": "general",
+      "allowed_families": [
+        "grip_open",
+        "read_scale"
+      ]
+    },
+    {
+      "participant": "G04",
+      "group": "general",
+      "allowed_families": [
+        "grip_open",
+        "read_scale"
+      ]
+    },
+    {
+      "participant": "G05",
+      "group": "general",
+      "allowed_families": [
+        "grip_open",
+        "read_scale"
+      ]
+    },
+    {
+      "participant": "G06",
+      "group": "general",
+      "allowed_families": [
+        "grip_open",
+        "read_scale"
+      ]
+    },
+    {
+      "participant": "G07",
+      "group": "general",
+      "allowed_families": [
+        "grip_open",
+        "read_scale"
+      ]
+    },
+    {
+      "participant": "G08",
+      "group": "general",
+      "allowed_families": [
+        "grip_open",
+        "read_scale"
+      ]
+    },
+    {
+      "participant": "G09",
+      "group": "general",
+      "allowed_families": [
+        "grip_open",
+        "read_scale"
+      ]
+    },
+    {
+      "participant": "G10",
+      "group": "general",
+      "allowed_families": [
+        "grip_open",
+        "read_scale"
+      ]
+    },
+    {
+      "participant": "G11",
+      "group": "general",
+      "allowed_families": [
+        "grip_open",
+        "read_scale"
+      ]
+    }
+  ],
+  "training_enrolments": [
+    {
+      "participant": "L00",
+      "period": "2026-08-02",
+      "devices": [
+        "latch-old",
+        "latch-new"
+      ]
+    },
+    {
+      "participant": "L01",
+      "period": "2026-08-02",
+      "devices": [
+        "latch-new",
+        "latch-old"
+      ]
+    },
+    {
+      "participant": "L02",
+      "period": "2026-08-02",
+      "devices": [
+        "latch-old",
+        "latch-new"
+      ]
+    },
+    {
+      "participant": "L03",
+      "period": "2026-08-02",
+      "devices": [
+        "latch-new",
+        "latch-old"
+      ]
+    },
+    {
+      "participant": "L04",
+      "period": "2026-08-02",
+      "devices": [
+        "latch-old",
+        "latch-new"
+      ]
+    },
+    {
+      "participant": "L05",
+      "period": "2026-08-02",
+      "devices": [
+        "latch-new",
+        "latch-old"
+      ]
+    },
+    {
+      "participant": "L06",
+      "period": "2026-08-02",
+      "devices": [
+        "latch-old",
+        "latch-new"
+      ]
+    },
+    {
+      "participant": "L07",
+      "period": "2026-08-02",
+      "devices": [
+        "latch-new",
+        "latch-old"
+      ]
+    },
+    {
+      "participant": "L08",
+      "period": "2026-08-02",
+      "devices": [
+        "latch-old",
+        "latch-new"
+      ]
+    },
+    {
+      "participant": "L09",
+      "period": "2026-08-02",
+      "devices": [
+        "latch-new",
+        "latch-old"
+      ]
+    },
+    {
+      "participant": "L10",
+      "period": "2026-08-02",
+      "devices": [
+        "latch-old",
+        "latch-new"
+      ]
+    },
+    {
+      "participant": "L11",
+      "period": "2026-08-02",
+      "devices": [
+        "latch-new",
+        "latch-old"
+      ]
+    },
+    {
+      "participant": "G00",
+      "period": "2026-08-02",
+      "devices": [
+        "latch-old",
+        "latch-new"
+      ]
+    },
+    {
+      "participant": "G01",
+      "period": "2026-08-02",
+      "devices": [
+        "latch-new",
+        "latch-old"
+      ]
+    },
+    {
+      "participant": "G02",
+      "period": "2026-08-02",
+      "devices": [
+        "latch-old",
+        "latch-new"
+      ]
+    },
+    {
+      "participant": "G03",
+      "period": "2026-08-02",
+      "devices": [
+        "latch-new",
+        "latch-old"
+      ]
+    },
+    {
+      "participant": "G04",
+      "period": "2026-08-02",
+      "devices": [
+        "latch-old",
+        "latch-new"
+      ]
+    },
+    {
+      "participant": "G05",
+      "period": "2026-08-02",
+      "devices": [
+        "latch-new",
+        "latch-old"
+      ]
+    },
+    {
+      "participant": "G06",
+      "period": "2026-08-02",
+      "devices": [
+        "latch-old",
+        "latch-new"
+      ]
+    },
+    {
+      "participant": "G07",
+      "period": "2026-08-02",
+      "devices": [
+        "latch-new",
+        "latch-old"
+      ]
+    },
+    {
+      "participant": "G08",
+      "period": "2026-08-02",
+      "devices": [
+        "latch-old",
+        "latch-new"
+      ]
+    },
+    {
+      "participant": "G09",
+      "period": "2026-08-02",
+      "devices": [
+        "latch-new",
+        "latch-old"
+      ]
+    },
+    {
+      "participant": "G10",
+      "period": "2026-08-02",
+      "devices": [
+        "latch-old",
+        "latch-new"
+      ]
+    },
+    {
+      "participant": "G11",
+      "period": "2026-08-02",
+      "devices": [
+        "latch-new",
+        "latch-old"
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "participant": "L00",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 1,
+      "at": "2026-08-02T09:15:00+08:00"
+    },
+    {
+      "participant": "L00",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 2,
+      "at": "2026-08-02T09:20:00+08:00"
+    },
+    {
+      "participant": "L00",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 3,
+      "at": "2026-08-02T09:25:00+08:00"
+    },
+    {
+      "participant": "L00",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 1,
+      "at": "2026-08-02T11:15:00+08:00"
+    },
+    {
+      "participant": "L00",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 2,
+      "at": "2026-08-02T11:20:00+08:00"
+    },
+    {
+      "participant": "L00",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 3,
+      "at": "2026-08-02T11:25:00+08:00"
+    },
+    {
+      "participant": "L01",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 1,
+      "at": "2026-08-02T09:15:00+08:00"
+    },
+    {
+      "participant": "L01",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 2,
+      "at": "2026-08-02T09:20:00+08:00"
+    },
+    {
+      "participant": "L01",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 3,
+      "at": "2026-08-02T09:25:00+08:00"
+    },
+    {
+      "participant": "L01",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 1,
+      "at": "2026-08-02T11:15:00+08:00"
+    },
+    {
+      "participant": "L01",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 2,
+      "at": "2026-08-02T11:20:00+08:00"
+    },
+    {
+      "participant": "L01",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 3,
+      "at": "2026-08-02T11:25:00+08:00"
+    },
+    {
+      "participant": "L02",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 1,
+      "at": "2026-08-02T09:15:00+08:00"
+    },
+    {
+      "participant": "L02",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 2,
+      "at": "2026-08-02T09:20:00+08:00"
+    },
+    {
+      "participant": "L02",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 3,
+      "at": "2026-08-02T09:25:00+08:00"
+    },
+    {
+      "participant": "L02",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 1,
+      "at": "2026-08-02T11:15:00+08:00"
+    },
+    {
+      "participant": "L02",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 2,
+      "at": "2026-08-02T11:20:00+08:00"
+    },
+    {
+      "participant": "L02",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 3,
+      "at": "2026-08-02T11:25:00+08:00"
+    },
+    {
+      "participant": "L03",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 1,
+      "at": "2026-08-02T09:15:00+08:00"
+    },
+    {
+      "participant": "L03",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 2,
+      "at": "2026-08-02T09:20:00+08:00"
+    },
+    {
+      "participant": "L03",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 3,
+      "at": "2026-08-02T09:25:00+08:00"
+    },
+    {
+      "participant": "L03",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 1,
+      "at": "2026-08-02T11:15:00+08:00"
+    },
+    {
+      "participant": "L03",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 2,
+      "at": "2026-08-02T11:20:00+08:00"
+    },
+    {
+      "participant": "L04",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 1,
+      "at": "2026-08-02T09:15:00+08:00"
+    },
+    {
+      "participant": "L04",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 2,
+      "at": "2026-08-02T09:20:00+08:00"
+    },
+    {
+      "participant": "L04",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 3,
+      "at": "2026-08-02T09:25:00+08:00"
+    },
+    {
+      "participant": "L04",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 1,
+      "at": "2026-08-02T11:15:00+08:00"
+    },
+    {
+      "participant": "L04",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 2,
+      "at": "2026-08-02T11:20:00+08:00"
+    },
+    {
+      "participant": "L04",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 3,
+      "at": "2026-08-02T11:25:00+08:00"
+    },
+    {
+      "participant": "L05",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 1,
+      "at": "2026-08-02T09:15:00+08:00"
+    },
+    {
+      "participant": "L05",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 2,
+      "at": "2026-08-02T09:20:00+08:00"
+    },
+    {
+      "participant": "L05",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 3,
+      "at": "2026-08-02T09:25:00+08:00"
+    },
+    {
+      "participant": "L05",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 1,
+      "at": "2026-08-02T11:15:00+08:00"
+    },
+    {
+      "participant": "L05",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 2,
+      "at": "2026-08-02T11:20:00+08:00"
+    },
+    {
+      "participant": "L05",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 3,
+      "at": "2026-08-02T11:25:00+08:00"
+    },
+    {
+      "participant": "L06",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 1,
+      "at": "2026-08-02T09:15:00+08:00"
+    },
+    {
+      "participant": "L06",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 2,
+      "at": "2026-08-02T09:20:00+08:00"
+    },
+    {
+      "participant": "L06",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 3,
+      "at": "2026-08-02T09:25:00+08:00"
+    },
+    {
+      "participant": "L06",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 1,
+      "at": "2026-08-02T11:15:00+08:00"
+    },
+    {
+      "participant": "L06",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 2,
+      "at": "2026-08-02T11:20:00+08:00"
+    },
+    {
+      "participant": "L06",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 3,
+      "at": "2026-08-02T11:25:00+08:00"
+    },
+    {
+      "participant": "L07",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 1,
+      "at": "2026-08-02T09:15:00+08:00"
+    },
+    {
+      "participant": "L07",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 2,
+      "at": "2026-08-02T09:20:00+08:00"
+    },
+    {
+      "participant": "L07",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 3,
+      "at": "2026-08-02T09:25:00+08:00"
+    },
+    {
+      "participant": "L07",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 1,
+      "at": "2026-08-02T11:15:00+08:00"
+    },
+    {
+      "participant": "L07",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 2,
+      "at": "2026-08-02T11:20:00+08:00"
+    },
+    {
+      "participant": "L07",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 3,
+      "at": "2026-08-02T11:25:00+08:00"
+    },
+    {
+      "participant": "L08",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 1,
+      "at": "2026-08-02T09:15:00+08:00"
+    },
+    {
+      "participant": "L08",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 2,
+      "at": "2026-08-02T09:20:00+08:00"
+    },
+    {
+      "participant": "L08",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 3,
+      "at": "2026-08-02T09:25:00+08:00"
+    },
+    {
+      "participant": "L08",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 1,
+      "at": "2026-08-02T11:15:00+08:00"
+    },
+    {
+      "participant": "L08",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 2,
+      "at": "2026-08-02T11:20:00+08:00"
+    },
+    {
+      "participant": "L08",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 3,
+      "at": "2026-08-02T11:25:00+08:00"
+    },
+    {
+      "participant": "L09",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 1,
+      "at": "2026-08-02T09:15:00+08:00"
+    },
+    {
+      "participant": "L09",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 2,
+      "at": "2026-08-02T09:20:00+08:00"
+    },
+    {
+      "participant": "L09",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 3,
+      "at": "2026-08-02T09:25:00+08:00"
+    },
+    {
+      "participant": "L09",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 1,
+      "at": "2026-08-02T11:15:00+08:00"
+    },
+    {
+      "participant": "L09",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 2,
+      "at": "2026-08-02T11:20:00+08:00"
+    },
+    {
+      "participant": "L09",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 3,
+      "at": "2026-08-02T11:25:00+08:00"
+    },
+    {
+      "participant": "L10",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 1,
+      "at": "2026-08-02T09:15:00+08:00"
+    },
+    {
+      "participant": "L10",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 2,
+      "at": "2026-08-02T09:20:00+08:00"
+    },
+    {
+      "participant": "L10",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 3,
+      "at": "2026-08-02T09:25:00+08:00"
+    },
+    {
+      "participant": "L10",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 1,
+      "at": "2026-08-02T11:15:00+08:00"
+    },
+    {
+      "participant": "L10",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 2,
+      "at": "2026-08-02T11:20:00+08:00"
+    },
+    {
+      "participant": "L10",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 3,
+      "at": "2026-08-02T11:25:00+08:00"
+    },
+    {
+      "participant": "L11",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 1,
+      "at": "2026-08-02T09:15:00+08:00"
+    },
+    {
+      "participant": "L11",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 2,
+      "at": "2026-08-02T09:20:00+08:00"
+    },
+    {
+      "participant": "L11",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 3,
+      "at": "2026-08-02T09:25:00+08:00"
+    },
+    {
+      "participant": "L11",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 1,
+      "at": "2026-08-02T11:15:00+08:00"
+    },
+    {
+      "participant": "L11",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 2,
+      "at": "2026-08-02T11:20:00+08:00"
+    },
+    {
+      "participant": "L11",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 3,
+      "at": "2026-08-02T11:25:00+08:00"
+    },
+    {
+      "participant": "G00",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 1,
+      "at": "2026-08-02T09:15:00+08:00"
+    },
+    {
+      "participant": "G00",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 2,
+      "at": "2026-08-02T09:20:00+08:00"
+    },
+    {
+      "participant": "G00",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 3,
+      "at": "2026-08-02T09:25:00+08:00"
+    },
+    {
+      "participant": "G00",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 1,
+      "at": "2026-08-02T11:15:00+08:00"
+    },
+    {
+      "participant": "G00",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 2,
+      "at": "2026-08-02T11:20:00+08:00"
+    },
+    {
+      "participant": "G00",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 3,
+      "at": "2026-08-02T11:25:00+08:00"
+    },
+    {
+      "participant": "G01",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 1,
+      "at": "2026-08-02T09:15:00+08:00"
+    },
+    {
+      "participant": "G01",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 2,
+      "at": "2026-08-02T09:20:00+08:00"
+    },
+    {
+      "participant": "G01",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 3,
+      "at": "2026-08-02T09:25:00+08:00"
+    },
+    {
+      "participant": "G01",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 1,
+      "at": "2026-08-02T11:15:00+08:00"
+    },
+    {
+      "participant": "G01",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 2,
+      "at": "2026-08-02T11:20:00+08:00"
+    },
+    {
+      "participant": "G01",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 3,
+      "at": "2026-08-02T11:25:00+08:00"
+    },
+    {
+      "participant": "G02",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 1,
+      "at": "2026-08-02T09:15:00+08:00"
+    },
+    {
+      "participant": "G02",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 2,
+      "at": "2026-08-02T09:20:00+08:00"
+    },
+    {
+      "participant": "G02",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 3,
+      "at": "2026-08-02T09:25:00+08:00"
+    },
+    {
+      "participant": "G02",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 1,
+      "at": "2026-08-02T11:15:00+08:00"
+    },
+    {
+      "participant": "G02",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 2,
+      "at": "2026-08-02T11:20:00+08:00"
+    },
+    {
+      "participant": "G02",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 3,
+      "at": "2026-08-02T11:25:00+08:00"
+    },
+    {
+      "participant": "G03",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 1,
+      "at": "2026-08-02T09:15:00+08:00"
+    },
+    {
+      "participant": "G03",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 2,
+      "at": "2026-08-02T09:20:00+08:00"
+    },
+    {
+      "participant": "G03",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 3,
+      "at": "2026-08-02T09:25:00+08:00"
+    },
+    {
+      "participant": "G03",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 1,
+      "at": "2026-08-02T11:15:00+08:00"
+    },
+    {
+      "participant": "G03",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 2,
+      "at": "2026-08-02T11:20:00+08:00"
+    },
+    {
+      "participant": "G04",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 1,
+      "at": "2026-08-02T09:15:00+08:00"
+    },
+    {
+      "participant": "G04",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 2,
+      "at": "2026-08-02T09:20:00+08:00"
+    },
+    {
+      "participant": "G04",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 3,
+      "at": "2026-08-02T09:25:00+08:00"
+    },
+    {
+      "participant": "G04",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 1,
+      "at": "2026-08-02T11:15:00+08:00"
+    },
+    {
+      "participant": "G04",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 2,
+      "at": "2026-08-02T11:20:00+08:00"
+    },
+    {
+      "participant": "G04",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 3,
+      "at": "2026-08-02T11:25:00+08:00"
+    },
+    {
+      "participant": "G05",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 1,
+      "at": "2026-08-02T09:15:00+08:00"
+    },
+    {
+      "participant": "G05",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 2,
+      "at": "2026-08-02T09:20:00+08:00"
+    },
+    {
+      "participant": "G05",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 3,
+      "at": "2026-08-02T09:25:00+08:00"
+    },
+    {
+      "participant": "G05",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 1,
+      "at": "2026-08-02T11:15:00+08:00"
+    },
+    {
+      "participant": "G05",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 2,
+      "at": "2026-08-02T11:20:00+08:00"
+    },
+    {
+      "participant": "G05",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 3,
+      "at": "2026-08-02T11:25:00+08:00"
+    },
+    {
+      "participant": "G06",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 1,
+      "at": "2026-08-02T09:15:00+08:00"
+    },
+    {
+      "participant": "G06",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 2,
+      "at": "2026-08-02T09:20:00+08:00"
+    },
+    {
+      "participant": "G06",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 3,
+      "at": "2026-08-02T09:25:00+08:00"
+    },
+    {
+      "participant": "G06",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 1,
+      "at": "2026-08-02T11:15:00+08:00"
+    },
+    {
+      "participant": "G06",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 2,
+      "at": "2026-08-02T11:20:00+08:00"
+    },
+    {
+      "participant": "G06",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 3,
+      "at": "2026-08-02T11:25:00+08:00"
+    },
+    {
+      "participant": "G07",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 1,
+      "at": "2026-08-02T09:15:00+08:00"
+    },
+    {
+      "participant": "G07",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 2,
+      "at": "2026-08-02T09:20:00+08:00"
+    },
+    {
+      "participant": "G07",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 3,
+      "at": "2026-08-02T09:25:00+08:00"
+    },
+    {
+      "participant": "G07",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 1,
+      "at": "2026-08-02T11:15:00+08:00"
+    },
+    {
+      "participant": "G07",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 2,
+      "at": "2026-08-02T11:20:00+08:00"
+    },
+    {
+      "participant": "G07",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 3,
+      "at": "2026-08-02T11:25:00+08:00"
+    },
+    {
+      "participant": "G08",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 1,
+      "at": "2026-08-02T09:15:00+08:00"
+    },
+    {
+      "participant": "G08",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 2,
+      "at": "2026-08-02T09:20:00+08:00"
+    },
+    {
+      "participant": "G08",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 3,
+      "at": "2026-08-02T09:25:00+08:00"
+    },
+    {
+      "participant": "G08",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 1,
+      "at": "2026-08-02T11:15:00+08:00"
+    },
+    {
+      "participant": "G08",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 2,
+      "at": "2026-08-02T11:20:00+08:00"
+    },
+    {
+      "participant": "G08",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 3,
+      "at": "2026-08-02T11:25:00+08:00"
+    },
+    {
+      "participant": "G09",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 1,
+      "at": "2026-08-02T09:15:00+08:00"
+    },
+    {
+      "participant": "G09",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 2,
+      "at": "2026-08-02T09:20:00+08:00"
+    },
+    {
+      "participant": "G09",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 3,
+      "at": "2026-08-02T09:25:00+08:00"
+    },
+    {
+      "participant": "G09",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 1,
+      "at": "2026-08-02T11:15:00+08:00"
+    },
+    {
+      "participant": "G09",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 2,
+      "at": "2026-08-02T11:20:00+08:00"
+    },
+    {
+      "participant": "G09",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 3,
+      "at": "2026-08-02T11:25:00+08:00"
+    },
+    {
+      "participant": "G10",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 1,
+      "at": "2026-08-02T09:15:00+08:00"
+    },
+    {
+      "participant": "G10",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 2,
+      "at": "2026-08-02T09:20:00+08:00"
+    },
+    {
+      "participant": "G10",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "attempt": 3,
+      "at": "2026-08-02T09:25:00+08:00"
+    },
+    {
+      "participant": "G10",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 1,
+      "at": "2026-08-02T11:15:00+08:00"
+    },
+    {
+      "participant": "G10",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 2,
+      "at": "2026-08-02T11:20:00+08:00"
+    },
+    {
+      "participant": "G10",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "attempt": 3,
+      "at": "2026-08-02T11:25:00+08:00"
+    },
+    {
+      "participant": "G11",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 1,
+      "at": "2026-08-02T09:15:00+08:00"
+    },
+    {
+      "participant": "G11",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 2,
+      "at": "2026-08-02T09:20:00+08:00"
+    },
+    {
+      "participant": "G11",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "attempt": 3,
+      "at": "2026-08-02T09:25:00+08:00"
+    },
+    {
+      "participant": "G11",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 1,
+      "at": "2026-08-02T11:15:00+08:00"
+    },
+    {
+      "participant": "G11",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 2,
+      "at": "2026-08-02T11:20:00+08:00"
+    },
+    {
+      "participant": "G11",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "attempt": 3,
+      "at": "2026-08-02T11:25:00+08:00"
+    }
+  ],
+  "observations": [
+    {
+      "id": "T-L00-0",
+      "participant": "L00",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "at": "2026-08-02T10:00:00+08:00",
+      "seconds": 45,
+      "outcome": "failed"
+    },
+    {
+      "id": "T-L00-1",
+      "participant": "L00",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "at": "2026-08-02T12:00:00+08:00",
+      "seconds": 25,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-L01-0",
+      "participant": "L01",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "at": "2026-08-02T10:00:00+08:00",
+      "seconds": 25,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-L01-1",
+      "participant": "L01",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "at": "2026-08-02T12:00:00+08:00",
+      "seconds": 26,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-L02-0",
+      "participant": "L02",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "at": "2026-08-02T10:00:00+08:00",
+      "seconds": 26,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-L02-1",
+      "participant": "L02",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "at": "2026-08-02T12:00:00+08:00",
+      "seconds": 27,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-L03-0",
+      "participant": "L03",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "at": "2026-08-02T10:00:00+08:00",
+      "seconds": 27,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-L03-1",
+      "participant": "L03",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "at": "2026-08-02T12:00:00+08:00",
+      "seconds": 28,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-L04-0",
+      "participant": "L04",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "at": "2026-08-02T10:00:00+08:00",
+      "seconds": 28,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-L04-1",
+      "participant": "L04",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "at": "2026-08-02T12:00:00+08:00",
+      "seconds": 29,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-L05-0",
+      "participant": "L05",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "at": "2026-08-02T10:00:00+08:00",
+      "seconds": 29,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-L05-1",
+      "participant": "L05",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "at": "2026-08-02T12:00:00+08:00",
+      "seconds": 30,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-L06-0",
+      "participant": "L06",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "at": "2026-08-02T10:00:00+08:00",
+      "seconds": 30,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-L06-1",
+      "participant": "L06",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "at": "2026-08-02T12:00:00+08:00",
+      "seconds": 45,
+      "outcome": "failed"
+    },
+    {
+      "id": "T-L07-0",
+      "participant": "L07",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "at": "2026-08-02T10:00:00+08:00",
+      "seconds": 45,
+      "outcome": "failed"
+    },
+    {
+      "id": "T-L07-1",
+      "participant": "L07",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "at": "2026-08-02T12:00:00+08:00",
+      "seconds": 32,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-L08-0",
+      "participant": "L08",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "at": "2026-08-02T10:00:00+08:00",
+      "seconds": 32,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-L08-1",
+      "participant": "L08",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "at": "2026-08-02T12:00:00+08:00",
+      "seconds": 33,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-L09-0",
+      "participant": "L09",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "at": "2026-08-02T10:00:00+08:00",
+      "seconds": 33,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-L09-1",
+      "participant": "L09",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "at": "2026-08-02T12:00:00+08:00",
+      "seconds": 34,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-L10-0",
+      "participant": "L10",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "at": "2026-08-02T10:00:00+08:00",
+      "seconds": 34,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-L10-1",
+      "participant": "L10",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "at": "2026-08-02T12:00:00+08:00",
+      "seconds": 35,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-L11-0",
+      "participant": "L11",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "at": "2026-08-02T10:00:00+08:00",
+      "seconds": 35,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-L11-1",
+      "participant": "L11",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "at": "2026-08-02T12:00:00+08:00",
+      "seconds": 36,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-G00-0",
+      "participant": "G00",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "at": "2026-08-02T10:00:00+08:00",
+      "seconds": 45,
+      "outcome": "failed"
+    },
+    {
+      "id": "T-G00-1",
+      "participant": "G00",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "at": "2026-08-02T12:00:00+08:00",
+      "seconds": 25,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-G01-0",
+      "participant": "G01",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "at": "2026-08-02T10:00:00+08:00",
+      "seconds": 25,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-G01-1",
+      "participant": "G01",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "at": "2026-08-02T12:00:00+08:00",
+      "seconds": 26,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-G02-0",
+      "participant": "G02",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "at": "2026-08-02T10:00:00+08:00",
+      "seconds": 26,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-G02-1",
+      "participant": "G02",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "at": "2026-08-02T12:00:00+08:00",
+      "seconds": 27,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-G03-0",
+      "participant": "G03",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "at": "2026-08-02T10:00:00+08:00",
+      "seconds": 27,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-G03-1",
+      "participant": "G03",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "at": "2026-08-02T12:00:00+08:00",
+      "seconds": 28,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-G04-0",
+      "participant": "G04",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "at": "2026-08-02T10:00:00+08:00",
+      "seconds": 28,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-G04-1",
+      "participant": "G04",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "at": "2026-08-02T12:00:00+08:00",
+      "seconds": 29,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-G05-0",
+      "participant": "G05",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "at": "2026-08-02T10:00:00+08:00",
+      "seconds": 29,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-G05-1",
+      "participant": "G05",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "at": "2026-08-02T12:00:00+08:00",
+      "seconds": 30,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-G06-0",
+      "participant": "G06",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "at": "2026-08-02T10:00:00+08:00",
+      "seconds": 30,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-G06-1",
+      "participant": "G06",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "at": "2026-08-02T12:00:00+08:00",
+      "seconds": 45,
+      "outcome": "failed"
+    },
+    {
+      "id": "T-G07-0",
+      "participant": "G07",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "at": "2026-08-02T10:00:00+08:00",
+      "seconds": 45,
+      "outcome": "failed"
+    },
+    {
+      "id": "T-G07-1",
+      "participant": "G07",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "at": "2026-08-02T12:00:00+08:00",
+      "seconds": 32,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-G08-0",
+      "participant": "G08",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "at": "2026-08-02T10:00:00+08:00",
+      "seconds": 32,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-G08-1",
+      "participant": "G08",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "at": "2026-08-02T12:00:00+08:00",
+      "seconds": 33,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-G09-0",
+      "participant": "G09",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "at": "2026-08-02T10:00:00+08:00",
+      "seconds": 33,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-G09-1",
+      "participant": "G09",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "at": "2026-08-02T12:00:00+08:00",
+      "seconds": 34,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-G10-0",
+      "participant": "G10",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 1,
+      "at": "2026-08-02T10:00:00+08:00",
+      "seconds": 34,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-G10-1",
+      "participant": "G10",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 2,
+      "at": "2026-08-02T12:00:00+08:00",
+      "seconds": 35,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-G11-0",
+      "participant": "G11",
+      "task": "jar_open",
+      "device": "latch-new",
+      "period": 1,
+      "at": "2026-08-02T10:00:00+08:00",
+      "seconds": 35,
+      "outcome": "independent"
+    },
+    {
+      "id": "T-G11-1",
+      "participant": "G11",
+      "task": "jar_open",
+      "device": "latch-old",
+      "period": 2,
+      "at": "2026-08-02T12:00:00+08:00",
+      "seconds": 36,
+      "outcome": "independent"
+    }
+  ],
+  "devices": {
+    "latch-old": {
+      "latch": "old",
+      "display": "common"
+    },
+    "latch-new": {
+      "latch": "new",
+      "display": "common"
+    }
+  },
+  "issued_cards": [
+    {
+      "id": "CARD1",
+      "claim": "CL1",
+      "groups": [
+        "general",
+        "limited_grip"
+      ],
+      "tasks": [
+        "jar_open",
+        "scale_read"
+      ],
+      "use": "first",
+      "source_observations": [
+        "O11",
+        "O15"
+      ],
+      "issued_at": "2026-08-07T11:00:00+08:00"
+    },
+    {
+      "id": "CARD2",
+      "claim": "CL2",
+      "groups": [
+        "limited_grip"
+      ],
+      "tasks": [
+        "jar_open"
+      ],
+      "use": "trained",
+      "source_observations": [
+        "T-L01-0",
+        "T-L01-1"
+      ],
+      "issued_at": "2026-08-07T12:00:00+08:00"
+    }
+  ]
+}

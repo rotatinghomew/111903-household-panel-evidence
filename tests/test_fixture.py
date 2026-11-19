@@ -28,5 +28,16 @@ class FixtureTest(unittest.TestCase):
             if record["participant"] is not None:
                 self.assertIn(record["participant"], export["participants"])
 
+    def test_training_records_and_cards_reference_distinct_evidence(self):
+        root = Path(__file__).parents[1] / 'data'
+        stores = json.loads((root / 'two_stores.json').read_text(encoding='utf-8'))
+        register = json.loads((root / 'training_register.json').read_text(encoding='utf-8'))
+        first = {row['id'] for row in stores['observations']}
+        trained = {row['id'] for row in register['observations']}
+        self.assertFalse(first & trained)
+        self.assertTrue(all(set(card['source_observations']) <= first | trained for card in register['issued_cards']))
+        self.assertEqual(len({tuple(row['devices']) for row in register['training_enrolments']}), 2)
+        self.assertLess(register['issued_cards'][0]['issued_at'], stores['component_notices'][0]['known_at'])
+
 if __name__ == "__main__":
     unittest.main()
