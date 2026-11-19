@@ -1,0 +1,50 @@
+{
+  "devices": [
+    {
+      "sku": "A1",
+      "latch": "L2",
+      "display": "D1"
+    },
+    {
+      "sku": "A2",
+      "latch": "L3",
+      "display": "D1"
+    }
+  ],
+  "participants": [
+    {
+      "id": "U1",
+      "group": "G1"
+    },
+    {
+      "id": "U2",
+      "group": "G2"
+    }
+  ],
+  "observations": [
+    {
+      "participant": "U1",
+      "sku": "A1",
+      "task": "open",
+      "sequence": 1,
+      "outcome": "independent",
+      "seconds": 18
+    },
+    {
+      "participant": "U1",
+      "sku": "A2",
+      "task": "read",
+      "sequence": 2,
+      "outcome": "assisted",
+      "seconds": 31
+    }
+  ],
+  "sessions": [
+    {
+      "device": "A2",
+      "date": "2026-08-02",
+      "group": "G2",
+      "slot": "S4"
+    }
+  ]
+}
