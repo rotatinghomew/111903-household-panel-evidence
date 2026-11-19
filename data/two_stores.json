@@ -1,0 +1,42 @@
+{
+  "clock": "Asia/Shanghai",
+  "tasks": {"jar_open": {"family": "grip_open", "timeout_s": 45}, "scale_read": {"family": "read_scale", "timeout_s": 30}},
+  "devices": {"J1": {"latch": "old", "display": "common"}, "J2": {"latch": "new", "display": "common"}},
+  "participants": {"U11": "limited_grip", "U12": "limited_grip", "U13": "limited_grip", "U14": "general", "U15": "general", "U16": "limited_grip"},
+  "study": {"arms": ["old", "new"], "trained_min_repetitions": 3, "target_groups": ["limited_grip", "general"], "confidence": 0.95, "min_per_group_arm": 2, "noninferiority_margin_pp": 10},
+  "observation_permissions": [
+    {"participant": "U11", "allowed_families": ["grip_open", "read_scale"], "enrolled_on": "2026-08-01"},
+    {"participant": "U12", "allowed_families": ["grip_open"], "enrolled_on": "2026-08-01"},
+    {"participant": "U13", "allowed_families": ["read_scale"], "enrolled_on": "2026-08-02"},
+    {"participant": "U14", "allowed_families": ["grip_open"], "enrolled_on": "2026-08-02"},
+    {"participant": "U15", "allowed_families": ["grip_open"], "enrolled_on": "2026-08-02"},
+    {"participant": "U16", "allowed_families": ["grip_open"], "enrolled_on": "2026-08-04"}
+  ],
+  "assignments": [
+    {"id": "A11", "participant": "U11", "store": "east", "task": "jar_open", "arm": "old"},
+    {"id": "A12", "participant": "U12", "store": "west", "task": "jar_open", "arm": "new"},
+    {"id": "A14", "participant": "U14", "store": "east", "task": "jar_open", "arm": "old"},
+    {"id": "A15", "participant": "U15", "store": "west", "task": "jar_open", "arm": "new"}
+  ],
+  "observations": [
+    {"id": "O11", "assignment": "A11", "device": "J1", "at": "2026-08-03T09:00:00+08:00", "outcome": "independent", "seconds": 32},
+    {"id": "O12", "assignment": "A12", "device": "J2", "at": "2026-08-03T09:10:00+08:00", "outcome": "failed", "seconds": 45},
+    {"id": "O14", "assignment": "A14", "device": "J1", "at": "2026-08-03T09:20:00+08:00", "outcome": "not_observed", "seconds": null},
+    {"id": "O15", "assignment": "A15", "device": "J1", "at": "2026-08-03T09:30:00+08:00", "outcome": "assisted", "seconds": 27}
+  ],
+  "claim_requests": [
+    {"id": "CL1", "tasks": ["jar_open", "scale_read"], "latch": "new", "display": "common", "use": "first", "groups": ["limited_grip", "general"]},
+    {"id": "CL2", "tasks": ["jar_open"], "latch": "new", "display": "common", "use": "trained", "groups": ["limited_grip"]}
+  ],
+  "contact_notices": [
+    {"id": "N1", "participant": "U16", "family": "grip_open", "kind": "demonstration", "occurred_at": "2026-08-06T16:00:00+08:00", "known_at": "2026-08-08T10:00:00+08:00"}
+  ],
+  "component_notices": [
+    {"id": "N2", "device": "J1", "latch": "new", "occurred_at": "2026-08-03T09:25:00+08:00", "known_at": "2026-08-08T10:15:00+08:00"}
+  ],
+  "slots": [
+    {"id": "S1", "store": "east", "at": "2026-08-09T10:00:00+08:00", "device": "J2", "participant": "U16", "tasks": ["jar_open"], "status": "confirmed", "requirement": "first"},
+    {"id": "S2", "store": "east", "at": "2026-08-09T10:00:00+08:00", "device": "J2", "participant": null, "tasks": ["scale_read", "jar_open"], "status": "candidate", "requirement": "first"},
+    {"id": "S3", "store": "west", "at": "2026-08-10T11:00:00+08:00", "device": "J1", "participant": null, "tasks": ["scale_read"], "status": "candidate", "requirement": "first"}
+  ]
+}
