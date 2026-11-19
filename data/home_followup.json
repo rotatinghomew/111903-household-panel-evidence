@@ -1,0 +1,910 @@
+{
+  "visit_plan": [
+    {
+      "id": "FV-L00",
+      "household": "HOME-00",
+      "participant": "L00",
+      "device": "latch-new",
+      "mat": "M1",
+      "period": 2,
+      "date_from": "2026-08-05",
+      "date_through": "2026-08-06",
+      "consent": [
+        "jar_open"
+      ],
+      "required": [
+        "jar_open",
+        "scale_read"
+      ]
+    },
+    {
+      "id": "FV-L01",
+      "household": "HOME-01",
+      "participant": "L01",
+      "device": "latch-old",
+      "mat": "none",
+      "period": 2,
+      "date_from": "2026-08-05",
+      "date_through": "2026-08-06",
+      "consent": [
+        "jar_open",
+        "scale_read"
+      ],
+      "required": [
+        "jar_open",
+        "scale_read"
+      ]
+    },
+    {
+      "id": "FV-L02",
+      "household": "HOME-02",
+      "participant": "L02",
+      "device": "latch-new",
+      "mat": "none",
+      "period": 2,
+      "date_from": "2026-08-05",
+      "date_through": "2026-08-06",
+      "consent": [
+        "jar_open",
+        "scale_read"
+      ],
+      "required": [
+        "jar_open",
+        "scale_read"
+      ]
+    },
+    {
+      "id": "FV-L03",
+      "household": "HOME-03",
+      "participant": "L03",
+      "device": "latch-old",
+      "mat": "M1",
+      "period": 2,
+      "date_from": "2026-08-05",
+      "date_through": "2026-08-06",
+      "consent": [
+        "jar_open",
+        "scale_read"
+      ],
+      "required": [
+        "jar_open",
+        "scale_read"
+      ]
+    },
+    {
+      "id": "FV-L04",
+      "household": "HOME-04",
+      "participant": "L04",
+      "device": "latch-new",
+      "mat": "none",
+      "period": 2,
+      "date_from": "2026-08-05",
+      "date_through": "2026-08-06",
+      "consent": [
+        "jar_open",
+        "scale_read"
+      ],
+      "required": [
+        "jar_open",
+        "scale_read"
+      ]
+    },
+    {
+      "id": "FV-L05",
+      "household": "HOME-05",
+      "participant": "L05",
+      "device": "latch-old",
+      "mat": "none",
+      "period": 2,
+      "date_from": "2026-08-05",
+      "date_through": "2026-08-06",
+      "consent": [
+        "jar_open",
+        "scale_read"
+      ],
+      "required": [
+        "jar_open",
+        "scale_read"
+      ]
+    },
+    {
+      "id": "FV-L06",
+      "household": "HOME-06",
+      "participant": "L06",
+      "device": "latch-new",
+      "mat": "M1",
+      "period": 2,
+      "date_from": "2026-08-05",
+      "date_through": "2026-08-06",
+      "consent": [
+        "jar_open"
+      ],
+      "required": [
+        "jar_open",
+        "scale_read"
+      ]
+    },
+    {
+      "id": "FV-L07",
+      "household": "HOME-07",
+      "participant": "L07",
+      "device": "latch-old",
+      "mat": "none",
+      "period": 2,
+      "date_from": "2026-08-05",
+      "date_through": "2026-08-06",
+      "consent": [
+        "jar_open",
+        "scale_read"
+      ],
+      "required": [
+        "jar_open",
+        "scale_read"
+      ]
+    },
+    {
+      "id": "FV-L08",
+      "household": "HOME-08",
+      "participant": "L08",
+      "device": "latch-new",
+      "mat": "none",
+      "period": 2,
+      "date_from": "2026-08-05",
+      "date_through": "2026-08-06",
+      "consent": [
+        "jar_open",
+        "scale_read"
+      ],
+      "required": [
+        "jar_open",
+        "scale_read"
+      ]
+    },
+    {
+      "id": "FV-L09",
+      "household": "HOME-09",
+      "participant": "L09",
+      "device": "latch-old",
+      "mat": "M1",
+      "period": 2,
+      "date_from": "2026-08-05",
+      "date_through": "2026-08-06",
+      "consent": [
+        "jar_open",
+        "scale_read"
+      ],
+      "required": [
+        "jar_open",
+        "scale_read"
+      ]
+    },
+    {
+      "id": "FV-L10",
+      "household": "HOME-10",
+      "participant": "L10",
+      "device": "latch-new",
+      "mat": "none",
+      "period": 2,
+      "date_from": "2026-08-05",
+      "date_through": "2026-08-06",
+      "consent": [
+        "jar_open",
+        "scale_read"
+      ],
+      "required": [
+        "jar_open",
+        "scale_read"
+      ]
+    },
+    {
+      "id": "FV-L11",
+      "household": "HOME-11",
+      "participant": "L11",
+      "device": "latch-old",
+      "mat": "none",
+      "period": 2,
+      "date_from": "2026-08-05",
+      "date_through": "2026-08-06",
+      "consent": [
+        "jar_open",
+        "scale_read"
+      ],
+      "required": [
+        "jar_open",
+        "scale_read"
+      ]
+    },
+    {
+      "id": "FV-G00",
+      "household": "HOME-12",
+      "participant": "G00",
+      "device": "latch-new",
+      "mat": "M1",
+      "period": 2,
+      "date_from": "2026-08-05",
+      "date_through": "2026-08-06",
+      "consent": [
+        "jar_open"
+      ],
+      "required": [
+        "jar_open",
+        "scale_read"
+      ]
+    },
+    {
+      "id": "FV-G01",
+      "household": "HOME-13",
+      "participant": "G01",
+      "device": "latch-old",
+      "mat": "none",
+      "period": 2,
+      "date_from": "2026-08-05",
+      "date_through": "2026-08-06",
+      "consent": [
+        "jar_open",
+        "scale_read"
+      ],
+      "required": [
+        "jar_open",
+        "scale_read"
+      ]
+    },
+    {
+      "id": "FV-G02",
+      "household": "HOME-14",
+      "participant": "G02",
+      "device": "latch-new",
+      "mat": "none",
+      "period": 2,
+      "date_from": "2026-08-05",
+      "date_through": "2026-08-06",
+      "consent": [
+        "jar_open",
+        "scale_read"
+      ],
+      "required": [
+        "jar_open",
+        "scale_read"
+      ]
+    },
+    {
+      "id": "FV-G03",
+      "household": "HOME-15",
+      "participant": "G03",
+      "device": "latch-old",
+      "mat": "M1",
+      "period": 2,
+      "date_from": "2026-08-05",
+      "date_through": "2026-08-06",
+      "consent": [
+        "jar_open",
+        "scale_read"
+      ],
+      "required": [
+        "jar_open",
+        "scale_read"
+      ]
+    },
+    {
+      "id": "FV-G04",
+      "household": "HOME-16",
+      "participant": "G04",
+      "device": "latch-new",
+      "mat": "none",
+      "period": 2,
+      "date_from": "2026-08-05",
+      "date_through": "2026-08-06",
+      "consent": [
+        "jar_open",
+        "scale_read"
+      ],
+      "required": [
+        "jar_open",
+        "scale_read"
+      ]
+    },
+    {
+      "id": "FV-G05",
+      "household": "HOME-17",
+      "participant": "G05",
+      "device": "latch-old",
+      "mat": "none",
+      "period": 2,
+      "date_from": "2026-08-05",
+      "date_through": "2026-08-06",
+      "consent": [
+        "jar_open",
+        "scale_read"
+      ],
+      "required": [
+        "jar_open",
+        "scale_read"
+      ]
+    },
+    {
+      "id": "FV-G06",
+      "household": "HOME-18",
+      "participant": "G06",
+      "device": "latch-new",
+      "mat": "M1",
+      "period": 2,
+      "date_from": "2026-08-05",
+      "date_through": "2026-08-06",
+      "consent": [
+        "jar_open"
+      ],
+      "required": [
+        "jar_open",
+        "scale_read"
+      ]
+    },
+    {
+      "id": "FV-G07",
+      "household": "HOME-19",
+      "participant": "G07",
+      "device": "latch-old",
+      "mat": "none",
+      "period": 2,
+      "date_from": "2026-08-05",
+      "date_through": "2026-08-06",
+      "consent": [
+        "jar_open",
+        "scale_read"
+      ],
+      "required": [
+        "jar_open",
+        "scale_read"
+      ]
+    },
+    {
+      "id": "FV-G08",
+      "household": "HOME-20",
+      "participant": "G08",
+      "device": "latch-new",
+      "mat": "none",
+      "period": 2,
+      "date_from": "2026-08-05",
+      "date_through": "2026-08-06",
+      "consent": [
+        "jar_open",
+        "scale_read"
+      ],
+      "required": [
+        "jar_open",
+        "scale_read"
+      ]
+    },
+    {
+      "id": "FV-G09",
+      "household": "HOME-21",
+      "participant": "G09",
+      "device": "latch-old",
+      "mat": "M1",
+      "period": 2,
+      "date_from": "2026-08-05",
+      "date_through": "2026-08-06",
+      "consent": [
+        "jar_open",
+        "scale_read"
+      ],
+      "required": [
+        "jar_open",
+        "scale_read"
+      ]
+    },
+    {
+      "id": "FV-G10",
+      "household": "HOME-22",
+      "participant": "G10",
+      "device": "latch-new",
+      "mat": "none",
+      "period": 2,
+      "date_from": "2026-08-05",
+      "date_through": "2026-08-06",
+      "consent": [
+        "jar_open",
+        "scale_read"
+      ],
+      "required": [
+        "jar_open",
+        "scale_read"
+      ]
+    },
+    {
+      "id": "FV-G11",
+      "household": "HOME-23",
+      "participant": "G11",
+      "device": "latch-old",
+      "mat": "none",
+      "period": 2,
+      "date_from": "2026-08-05",
+      "date_through": "2026-08-06",
+      "consent": [
+        "jar_open",
+        "scale_read"
+      ],
+      "required": [
+        "jar_open",
+        "scale_read"
+      ]
+    }
+  ],
+  "observations": [
+    {
+      "id": "FH-L00-jar_open",
+      "visit": "FV-L00",
+      "task": "jar_open",
+      "independent": true,
+      "coached": false,
+      "mat": "M1",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-L01-jar_open",
+      "visit": "FV-L01",
+      "task": "jar_open",
+      "independent": true,
+      "coached": false,
+      "mat": "none",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-L01-scale_read",
+      "visit": "FV-L01",
+      "task": "scale_read",
+      "independent": true,
+      "coached": false,
+      "mat": "none",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-L03-jar_open",
+      "visit": "FV-L03",
+      "task": "jar_open",
+      "independent": false,
+      "coached": false,
+      "mat": "M1",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-L03-scale_read",
+      "visit": "FV-L03",
+      "task": "scale_read",
+      "independent": false,
+      "coached": false,
+      "mat": "M1",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-L04-jar_open",
+      "visit": "FV-L04",
+      "task": "jar_open",
+      "independent": true,
+      "coached": false,
+      "mat": "none",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-L04-scale_read",
+      "visit": "FV-L04",
+      "task": "scale_read",
+      "independent": true,
+      "coached": false,
+      "mat": "none",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-L05-jar_open",
+      "visit": "FV-L05",
+      "task": "jar_open",
+      "independent": true,
+      "coached": false,
+      "mat": "none",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-L05-scale_read",
+      "visit": "FV-L05",
+      "task": "scale_read",
+      "independent": true,
+      "coached": false,
+      "mat": "none",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-L08-jar_open",
+      "visit": "FV-L08",
+      "task": "jar_open",
+      "independent": false,
+      "coached": false,
+      "mat": "none",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-L08-scale_read",
+      "visit": "FV-L08",
+      "task": "scale_read",
+      "independent": false,
+      "coached": false,
+      "mat": "none",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-L09-jar_open",
+      "visit": "FV-L09",
+      "task": "jar_open",
+      "independent": true,
+      "coached": false,
+      "mat": "M1",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-L09-scale_read",
+      "visit": "FV-L09",
+      "task": "scale_read",
+      "independent": true,
+      "coached": false,
+      "mat": "M1",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-L11-jar_open",
+      "visit": "FV-L11",
+      "task": "jar_open",
+      "independent": true,
+      "coached": false,
+      "mat": "none",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-L11-scale_read",
+      "visit": "FV-L11",
+      "task": "scale_read",
+      "independent": true,
+      "coached": false,
+      "mat": "none",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-G00-jar_open",
+      "visit": "FV-G00",
+      "task": "jar_open",
+      "independent": true,
+      "coached": false,
+      "mat": "M1",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-G01-jar_open",
+      "visit": "FV-G01",
+      "task": "jar_open",
+      "independent": false,
+      "coached": true,
+      "mat": "none",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-G01-scale_read",
+      "visit": "FV-G01",
+      "task": "scale_read",
+      "independent": false,
+      "coached": false,
+      "mat": "none",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-G03-jar_open",
+      "visit": "FV-G03",
+      "task": "jar_open",
+      "independent": true,
+      "coached": false,
+      "mat": "M1",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-G03-scale_read",
+      "visit": "FV-G03",
+      "task": "scale_read",
+      "independent": true,
+      "coached": false,
+      "mat": "M1",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-G05-jar_open",
+      "visit": "FV-G05",
+      "task": "jar_open",
+      "independent": true,
+      "coached": false,
+      "mat": "none",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-G05-scale_read",
+      "visit": "FV-G05",
+      "task": "scale_read",
+      "independent": true,
+      "coached": false,
+      "mat": "none",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-G07-jar_open",
+      "visit": "FV-G07",
+      "task": "jar_open",
+      "independent": true,
+      "coached": false,
+      "mat": "none",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-G07-scale_read",
+      "visit": "FV-G07",
+      "task": "scale_read",
+      "independent": true,
+      "coached": false,
+      "mat": "none",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-G08-jar_open",
+      "visit": "FV-G08",
+      "task": "jar_open",
+      "independent": true,
+      "coached": true,
+      "mat": "none",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-G08-scale_read",
+      "visit": "FV-G08",
+      "task": "scale_read",
+      "independent": true,
+      "coached": false,
+      "mat": "none",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-G09-jar_open",
+      "visit": "FV-G09",
+      "task": "jar_open",
+      "independent": true,
+      "coached": false,
+      "mat": "M1",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-G09-scale_read",
+      "visit": "FV-G09",
+      "task": "scale_read",
+      "independent": true,
+      "coached": false,
+      "mat": "M1",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-G11-jar_open",
+      "visit": "FV-G11",
+      "task": "jar_open",
+      "independent": false,
+      "coached": false,
+      "mat": "none",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    },
+    {
+      "id": "FH-G11-scale_read",
+      "visit": "FV-G11",
+      "task": "scale_read",
+      "independent": false,
+      "coached": false,
+      "mat": "none",
+      "occurred": "2026-08-05T18:30:00+08:00",
+      "recorded": "2026-08-06T09:00:00+08:00"
+    }
+  ],
+  "additional_contacts": [
+    {
+      "participant": "CO-00",
+      "household": "HOME-00",
+      "family": "grip_open",
+      "kind": "observed_demonstration",
+      "occurred": "2026-08-02T10:00:00+08:00",
+      "known": "2026-08-08T08:30:00+08:00"
+    },
+    {
+      "participant": "CO-06",
+      "household": "HOME-06",
+      "family": "grip_open",
+      "kind": "observed_demonstration",
+      "occurred": "2026-08-02T10:00:00+08:00",
+      "known": "2026-08-08T08:30:00+08:00"
+    },
+    {
+      "participant": "CO-12",
+      "household": "HOME-12",
+      "family": "grip_open",
+      "kind": "observed_demonstration",
+      "occurred": "2026-08-02T10:00:00+08:00",
+      "known": "2026-08-08T08:30:00+08:00"
+    },
+    {
+      "participant": "CO-18",
+      "household": "HOME-18",
+      "family": "grip_open",
+      "kind": "observed_demonstration",
+      "occurred": "2026-08-02T10:00:00+08:00",
+      "known": "2026-08-08T08:30:00+08:00"
+    }
+  ],
+  "corrections": [
+    {
+      "observation": "FH-L00-jar_open",
+      "changes": {
+        "coached": true,
+        "mat": "none"
+      },
+      "known": "2026-08-08T11:15:00+08:00"
+    }
+  ],
+  "home_claims": [
+    {
+      "id": "CARD-H1",
+      "group": "limited_grip",
+      "claim_type": "joint",
+      "tasks": [
+        "jar_open",
+        "scale_read"
+      ],
+      "device": "latch-new",
+      "mat": "M1",
+      "issued": "2026-08-07T16:00:00+08:00",
+      "cited": [
+        "FH-L00-jar_open",
+        "FH-L03-jar_open",
+        "FH-L03-scale_read"
+      ]
+    },
+    {
+      "id": "CARD-H2",
+      "group": "general",
+      "claim_type": "separate",
+      "tasks": [
+        "scale_read"
+      ],
+      "device": "latch-new",
+      "mat": "none",
+      "issued": "2026-08-07T17:00:00+08:00",
+      "cited": [
+        "FH-G05-scale_read"
+      ]
+    }
+  ],
+  "household_candidates": [
+    {
+      "participant": "CO-00",
+      "home": "HOME-00",
+      "group": "limited_grip",
+      "allowed": [
+        "grip_open",
+        "read_scale"
+      ]
+    },
+    {
+      "participant": "NEW-01",
+      "home": "HOME-31",
+      "group": "limited_grip",
+      "allowed": [
+        "grip_open",
+        "read_scale"
+      ]
+    },
+    {
+      "participant": "NEW-02",
+      "home": "HOME-32",
+      "group": "limited_grip",
+      "allowed": [
+        "grip_open"
+      ]
+    },
+    {
+      "participant": "NEW-03",
+      "home": "HOME-33",
+      "group": "general",
+      "allowed": [
+        "grip_open",
+        "read_scale"
+      ]
+    }
+  ],
+  "return_slots": [
+    {
+      "slot": "FU1",
+      "store": "east",
+      "at": "2026-08-12T10:00:00+08:00",
+      "participant": "CO-00",
+      "state": "confirmed"
+    },
+    {
+      "slot": "FU2",
+      "store": "east",
+      "at": "2026-08-12T10:00:00+08:00",
+      "participant": "NEW-01",
+      "state": "candidate"
+    },
+    {
+      "slot": "FU3",
+      "store": "west",
+      "at": "2026-08-13T11:00:00+08:00",
+      "participant": "NEW-02",
+      "state": "candidate"
+    },
+    {
+      "slot": "FU4",
+      "store": "west",
+      "at": "2026-08-13T11:00:00+08:00",
+      "participant": "NEW-03",
+      "state": "candidate"
+    }
+  ],
+  "future_sessions": [
+    {
+      "session": "HS1",
+      "store": "east",
+      "device": "J2",
+      "at": "2026-08-09T10:00:00+08:00",
+      "return_slots": [
+        "FU1",
+        "FU2"
+      ],
+      "participants": [
+        "CO-00",
+        "NEW-01"
+      ],
+      "mat": "M1"
+    },
+    {
+      "session": "HS2",
+      "store": "west",
+      "device": "J1",
+      "at": "2026-08-10T11:00:00+08:00",
+      "return_slots": [
+        "FU3",
+        "FU4"
+      ],
+      "participants": [
+        "NEW-02",
+        "NEW-03"
+      ],
+      "mat": "none"
+    }
+  ]
+}

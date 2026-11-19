@@ -4,6 +4,25 @@ from pathlib import Path
 import unittest
 
 class FixtureTest(unittest.TestCase):
+    def test_home_followup_keeps_missing_and_unauthorized_observations_separate(self):
+        root = Path(__file__).parents[1] / 'data'
+        training = json.loads((root / 'training_register.json').read_text(encoding='utf-8'))
+        home = json.loads((root / 'home_followup.json').read_text(encoding='utf-8'))
+        participants = {row['participant'] for row in training['training_enrolments']}
+        visits = {row['id']: row for row in home['visit_plan']}
+        observed = {row['id']: row for row in home['observations']}
+        self.assertLessEqual({row['participant'] for row in visits.values()}, participants)
+        self.assertTrue(visits.keys() - {row['visit'] for row in observed.values()})
+        self.assertTrue(any(set(row['consent']) < set(row['required']) for row in visits.values()))
+        for observation in observed.values():
+            self.assertIn(observation['task'], visits[observation['visit']]['consent'])
+        for correction in home['corrections']:
+            self.assertGreater(correction['known'], observed[correction['observation']]['recorded'])
+        for card in home['home_claims']:
+            self.assertLessEqual(set(card['cited']), observed.keys())
+        for visit in home['future_sessions']:
+            self.assertLessEqual(set(visit['return_slots']), {row['slot'] for row in home['return_slots']})
+
     def test_sample_is_json_object(self):
         path = Path(__file__).parents[1] / "data" / "sample.json"
         value = json.loads(path.read_text(encoding="utf-8"))
