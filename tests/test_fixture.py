@@ -20,6 +20,10 @@ class FixtureTest(unittest.TestCase):
             self.assertGreater(correction['known'], observed[correction['observation']]['recorded'])
         for card in home['home_claims']:
             self.assertLessEqual(set(card['cited']), observed.keys())
+            for citation in card['cited']:
+                observation = observed[citation]
+                self.assertEqual(observation['mat'], card['mat'])
+                self.assertEqual(visits[observation['visit']]['device'], card['device'])
         for visit in home['future_sessions']:
             self.assertLessEqual(set(visit['return_slots']), {row['slot'] for row in home['return_slots']})
 

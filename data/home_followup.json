@@ -76,7 +76,7 @@
       "household": "HOME-04",
       "participant": "L04",
       "device": "latch-new",
-      "mat": "none",
+      "mat": "M1",
       "period": 2,
       "date_from": "2026-08-05",
       "date_through": "2026-08-06",
@@ -147,7 +147,7 @@
       "household": "HOME-08",
       "participant": "L08",
       "device": "latch-new",
-      "mat": "none",
+      "mat": "M1",
       "period": 2,
       "date_from": "2026-08-05",
       "date_through": "2026-08-06",
@@ -486,7 +486,7 @@
       "task": "jar_open",
       "independent": true,
       "coached": false,
-      "mat": "none",
+      "mat": "M1",
       "occurred": "2026-08-05T18:30:00+08:00",
       "recorded": "2026-08-06T09:00:00+08:00"
     },
@@ -496,7 +496,7 @@
       "task": "scale_read",
       "independent": true,
       "coached": false,
-      "mat": "none",
+      "mat": "M1",
       "occurred": "2026-08-05T18:30:00+08:00",
       "recorded": "2026-08-06T09:00:00+08:00"
     },
@@ -526,7 +526,7 @@
       "task": "jar_open",
       "independent": false,
       "coached": false,
-      "mat": "none",
+      "mat": "M1",
       "occurred": "2026-08-05T18:30:00+08:00",
       "recorded": "2026-08-06T09:00:00+08:00"
     },
@@ -536,7 +536,7 @@
       "task": "scale_read",
       "independent": false,
       "coached": false,
-      "mat": "none",
+      "mat": "M1",
       "occurred": "2026-08-05T18:30:00+08:00",
       "recorded": "2026-08-06T09:00:00+08:00"
     },
@@ -789,8 +789,8 @@
       "issued": "2026-08-07T16:00:00+08:00",
       "cited": [
         "FH-L00-jar_open",
-        "FH-L03-jar_open",
-        "FH-L03-scale_read"
+        "FH-L04-jar_open",
+        "FH-L04-scale_read"
       ]
     },
     {
@@ -804,7 +804,7 @@
       "mat": "none",
       "issued": "2026-08-07T17:00:00+08:00",
       "cited": [
-        "FH-G05-scale_read"
+        "FH-G08-scale_read"
       ]
     }
   ],
