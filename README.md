@@ -4,7 +4,32 @@
 
 ## 运行
 
-无需安装第三方依赖。设置 `PYTHONPATH=src` 后运行 `python3 -m household-panel-evidence` 可查看工作区版本。运行现有基线检查：`PYTHONPATH=src python3 -m unittest discover -s tests -v`。
+无需安装第三方依赖。设置 `PYTHONPATH=src` 后使用：
+
+```sh
+PYTHONPATH=src python3 -m household-panel-evidence            # 完整报告
+PYTHONPATH=src python3 -m household-panel-evidence store      # 门店首用（按原分派）
+PYTHONPATH=src python3 -m household-panel-evidence trained    # 熟练交叉试验
+PYTHONPATH=src python3 -m household-panel-evidence home       # 家庭回访与说明卡
+PYTHONPATH=src python3 -m household-panel-evidence schedule   # 下一轮排期对照
+PYTHONPATH=src python3 -m household-panel-evidence gaps       # 仍开放的证据空白
+PYTHONPATH=src python3 -m household-panel-evidence report --json   # 机器可读输出
+```
+
+`--data-dir` 可指定其他数据目录。运行基线与规则检查：`PYTHONPATH=src python3 -m unittest discover -s tests -v`。
+
+下一轮判定：把实际到场、预演、完成情况与补报接触写回对应 JSON 后重跑即可，无需重做全部试验。
+
+## 判定规则
+
+- 首用按动作族判定：示范、旁观、训练后退出都算已接触，与是否见过某型号无关；同一受试者不能填两条同族首用对照。
+- 首用独立完成率按原分派评估；实操换组不改分派。实际部件以换件通知生效时刻重算，与登记或分派不一致的观察另列，不为未充分观察的新部件背书。
+- 拒绝观察、没有完成记录、实际操作失败分列；撤回未来参与不抹去仍允许使用的历史观察。
+- 熟练比较只纳入完成规定练习量的观察，保留个人内阶段次序；第二期迁移不可分离时，配对差不用于宣称新部件更好，只保留第一期同类人群对照。
+- 声明按部件 × 动作 × 首用/熟练 × 能力分层核算；某层证据不足（每组每臂少于 2 个分派）就保留缺口，不以总体均值或其他动作补。换件不影响的动作，证据可沿用到未变化的操作条件。
+- 家庭声明按户核算：有人提示不算无提示独立，垫配置以更正后实际为准，超出约定窗口不计；有授权未得结果与未获授权分列；同一人两次观察不算两户；联合声明要求同一户同一次回访整套完成，不可跨户拼合。
+- 已发卡保留发出时依据；发现换件早于登记或漏记接触后，按真实部件与接触史重核，标出停止用于新销售的卡与不受影响的范围。引用遗漏范围内已观察住户/分派（尤其失败）即为依据缺陷。
+- 已确认活动保留时段、设备与顺序；补报接触使志愿者失去首用资格的位置列为待协商，不算补足缺口，也不回到可分配池。候选安排挤占已确认活动、或对照只能落到不同能力人群时，不能按预期人头计为有效。家庭环境类声明即使多做店内试验也得不到证据。
 
 ## 资料
 
